@@ -1,0 +1,7 @@
+To compile on Windows 10
+
+1. Install visual Studio 2017 community edition
+2. Install windows 10 SDK
+3. nmake -f makefile.msvc
+
+that's is... simple!
